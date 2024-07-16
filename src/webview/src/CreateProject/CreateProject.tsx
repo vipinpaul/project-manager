@@ -1,6 +1,4 @@
 function CreateProject() {
-  return(
-    <p>Testing</p>
-  )
+  return <p className="text-red-500">Testing</p>;
 }
 export default CreateProject;
